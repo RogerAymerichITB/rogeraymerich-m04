@@ -1,0 +1,43 @@
+
+
+h1{
+    color: red;
+}
+h2{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: grey;
+    text-decoration: underline;
+}
+p{
+    font-style: italic;
+    
+}
+.Franky{
+    color: lightgray;
+    background-color: green;
+}
+.Avi{
+    color: blue;
+    background-color: lightskyblue;
+}
+.Boris{
+    color: orange;
+    background-color: greenyellow;
+}
+.Tony{
+    color: greenyellow;
+    background-color: darkred;
+}
+
+ol{
+    list-style-type: upper-roman;
+}
+li{
+    list-style: lower-roman;
+}
+
+ul{
+    color: green;
+    text-transform: uppercase;
+}

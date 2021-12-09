@@ -1,0 +1,15 @@
+.image1{
+    width: 10%;
+    height: 100px;
+    float: left;
+    background-color: palegreen;
+}
+.text1{
+
+}
+.image2{
+    width: 10%;
+    height: 100px;
+    float: right;
+    background-color: palegreen;
+}
